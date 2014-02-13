@@ -71,10 +71,6 @@ wants to be the recipient of false commitments.
 всё так и есть. Кроме того, никто из нас не хотел бы быть человеком,
 не выполняющим своих обязательств.
 
-?? заменил кучу двойных отрицаний. В итоге "редко неправильный" превратилось
-    в "часто правильный" - только в таком виде я наконец-то смог прочитать и понять
-    это по-русски.
-
 The inability to say “no” happens to be a common part of the Indian
 culture. Companies that are inexperienced with offshore outsourcing
 almost always run into it. You learn with time to sniff out uncertainty
@@ -164,8 +160,6 @@ thing. You’ll notice that when you meet a real guru in a subject area,
 вас, если вы заявляете, что знаете что-либо. Однако, если встретите настоящего
 гуру в некоторой области, то заметите, что они никогда не бояться подтвердить,
 что они не знают чего-либо. "Я не знаю" - это безопасная фраза.
-
-?? заменил "не небезопасная" (в оригинале) на "безопасная" (у @YaMike было "не опасная")
 
 That same courage can also come in handy when dealing with deci-
 sions from above. How many times have you seen a technology deci-
